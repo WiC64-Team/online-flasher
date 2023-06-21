@@ -1,6 +1,6 @@
 {
   "name": "WiC64 stable firmware",
-  "version": "33",
+  "version": "34",
   "builds": [
     {
       "chipFamily": "ESP32",
